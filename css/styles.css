@@ -419,7 +419,7 @@ footer {
   letter-spacing: 0.03em;
   color: var(--address-futer-color);
 }
-.auth-navs.list:not(:last-child) {
+.footer-list:not(:last-child) {
   margin-bottom: 9px;
 }
 
